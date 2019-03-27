@@ -1,0 +1,16 @@
+{
+  "name": "@desco/vue-get-route-by",
+  "version": "1.0.0",
+  "description": "Retrieve a route by name or path",
+  "author": "Rafael A. R. Dias <contato@diasrafael.com.br>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/descodifica/vue-get-route-by"
+  },
+  "main": "index.js",
+  "private": false,
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {}
+}
